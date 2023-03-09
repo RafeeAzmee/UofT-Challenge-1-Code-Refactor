@@ -9,7 +9,9 @@ The styles.css file has been changed into proper symantic CSS formating with the
 
 For reference I will be attaching the old HTML code below:
 
-!(./assests/OLD-HTML.png)
+!(./assets/OLD-HTML.png)
+
+
 
 
 
