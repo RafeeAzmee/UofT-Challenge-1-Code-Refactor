@@ -12,19 +12,7 @@ For reference I will be attaching the old HTML code below:
 
 ![OLD HTML](https://user-images.githubusercontent.com/126531025/223901386-966a44da-6513-428d-93e5-ea9f456b1154.PNG)
 
+Here is a link to the desired website:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Website Link](https://rafeeazmee.github.io/UofT-Challenge-1-Code-Refactor/)
 
