@@ -9,7 +9,13 @@ The styles.css file has been changed into proper symantic CSS formating with the
 
 For reference I will be attaching the old HTML code below:
 
-![Old HTML](/assets/old-html.png)
+!(./assets/images/OLD-HTML.png)
+
+
+
+
+
+
 
 
 
