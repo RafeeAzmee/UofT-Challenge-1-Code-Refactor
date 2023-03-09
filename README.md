@@ -1,8 +1,5 @@
 # UofT-Challenge-1-Code-Refactor
 
-##HTML, CSS and Git Code Refactoring Challenge
-
-
 **HTML, CSS, and Git Code Refactoring Challenge**
 
 Within this repository you will find a refactored version of the index.html file as well the styles.css file.
